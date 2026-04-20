@@ -30,5 +30,8 @@ SOFTWARE REQUIRED:
 
 ## GRAPH: Differential amplifier:
 <img width="773" height="379" alt="image" src="https://github.com/user-attachments/assets/b2261fb9-36ab-4650-b8e1-41589442fc53" />
+
+
+
 ## RESULT:
 Thus the LT Spice tool has been studied and non-inverting ,inverting,differential amplifier circuit is stimulated.
